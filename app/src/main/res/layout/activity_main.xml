@@ -11,15 +11,19 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="35dp"
         android:textColor="@color/white"
+        android:textSize="40sp"
         android:text="MyRestaurants" />
+
 
 
     <Button
         android:id="@+id/button"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
+        android:background="@color/colorAccent"
+        android:textColor="@color/white"
         android:text="Find Restaurants" />
 
 </RelativeLayout>
