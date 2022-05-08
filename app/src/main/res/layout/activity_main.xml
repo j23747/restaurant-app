@@ -18,7 +18,7 @@
 
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/findRestaurantsButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
@@ -26,6 +26,8 @@
         android:background="@color/colorAccent"
         android:textColor="@color/white"
         android:text="Find Restaurants" />
+
+
 
     <ImageView
         android:id="@+id/imageView"
